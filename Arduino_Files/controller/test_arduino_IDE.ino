@@ -1,3 +1,5 @@
+//SCT
+//Prueba de conexión
 int led = 13;
 void setup() {
   pinMode(led, OUTPUT);
